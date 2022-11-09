@@ -1,0 +1,32 @@
+.header {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+   border-radius: 50px;
+   background-color: #f0f0f3;
+   box-shadow: 10px 10px 21px #D3D3D3,
+      -10px -10px 21px #fff
+}
+
+#name {
+   font-size: 50px;
+   padding-left: 20px;
+}
+
+#icon {
+   height: 80px;
+   width: 80px;
+   padding-left: 20px;
+   padding-top: 10px;
+}
+
+.advertising {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.advertising_img {
+   height: 300px;
+}
